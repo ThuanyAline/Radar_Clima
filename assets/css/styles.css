@@ -1,0 +1,140 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: radial-gradient(circle at top left, #1e3c72, #2a5298);
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 1rem;
+}
+
+/* Container principal */
+.container {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border-radius: 16px;
+  padding: 2rem;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  max-width: 420px;
+  width: 100%;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Título */
+h1 {
+  font-size: 2.2rem;
+  margin-bottom: 1.5rem;
+  color: #ffffff;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+}
+
+/* Campo de entrada */
+input {
+  padding: 0.75rem 1rem;
+  width: 100%;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  background-color: rgba(255, 255, 255, 0.2);
+  color: #fff;
+  outline: none;
+  transition: background-color 0.3s;
+}
+
+input::placeholder {
+  color: #ddd;
+}
+
+input:focus {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+/* Botão */
+button {
+  padding: 0.75rem 1.5rem;
+  background-color: #00c6ff;
+  background-image: linear-gradient(to right, #0072ff, #00c6ff);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: bold;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 10px #00c6ff;
+}
+
+/* Resultado */
+#resultado {
+  margin-top: 2rem;
+  background-color: rgba(255, 255, 255, 0.15);
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+ h2 {
+  font-size: 1.4rem;
+  color: #ffffff;
+  margin-bottom: 0.5rem;
+}
+
+#resultado p {
+  font-size: 1.1rem;
+  color: #e0e0e0;
+  margin: 0.3rem 0;
+}
+
+
+input {
+  padding: 0.5rem;
+  width: 70%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  background-color: #0077ff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  margin-left: 0.5rem;
+}
+
+button:hover {
+  background-color: #005fcc;
+}
+
+#resultado {
+  margin-top: 1.5rem;
+}
+
+#resultado h2 {
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+
+#resultado p {
+  font-size: 1.2rem;
+  color: #444;
+}
+
+
