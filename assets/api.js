@@ -29,6 +29,33 @@ async function buscarTemperatura() {
     }
 
     const { temperature, windspeed, winddirection, weathercode } = climaData.current_weather;
+    // 1. Data e hora da pesquisa
+const dataHora = new Date();
+const hora = dataHora.getHours();
+const dataFormatada = dataHora.toLocaleString("pt-BR");
+
+// 2. Descrição do clima
+const descricoes = {
+  0: "Céu limpo",
+  1: "Principalmente claro",
+  2: "Parcialmente nublado",
+  3: "Nublado",
+  45: "Neblina",
+  51: "Chuvisco leve",
+  61: "Chuva leve",
+  71: "Neve leve",
+  80: "Pancadas de chuva"
+};
+
+const descricao = descricoes[weathercode] || "Condições variadas";
+
+// 3. Troca de cor de fundo com gradiente
+document.body.style.background = hora >= 18 || hora < 6
+  ? "radial-gradient(circle at top left, #0f2027, #203a43, #2c5364)" // noite
+  : "radial-gradient(circle at top left, #a1c4fd, #c2e9fb)"; // dia
+
+document.body.style.color = hora >= 18 || hora < 6 ? "#ecf0f1" : "#2c3e50";
+
 
     const icones = {
       0: "☀️", 1: "🌤️", 2: "⛅", 3: "☁️", 45: "🌫️",
@@ -38,7 +65,9 @@ async function buscarTemperatura() {
 
     resultado.innerHTML = `
       <h2>${name}, ${country}</h2>
-      <p>${icone} Temperatura: ${temperature}°C</p>
+      <p>🕒 Consulta feita em: ${dataFormatada}</p>
+      <p>✨ Temperatura: ${temperature}°C</p>
+      <p>📋 Clima: ${descricao}</p>
       <p>💨 Vento: ${windspeed} km/h</p>
       <p>🧭 Direção do vento: ${winddirection}°</p>
     `;
