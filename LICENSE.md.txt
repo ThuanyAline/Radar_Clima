@@ -1,0 +1,256 @@
+Licença MIT
+
+Copyright (c) 2025 [Thuany Silva]
+
+É concedida permissão, gratuitamente, a qualquer pessoa que obtenha uma cópia
+deste software e dos arquivos de documentação associados (o "Software"), para
+lidar com o Software sem restrições, incluindo, sem limitação, os direitos
+de usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou
+vender cópias do Software, e permitir que as pessoas a quem o Software é
+fornecido o façam, sujeito às seguintes condições:
+
+O aviso de copyright acima e este aviso de permissão devem ser incluídos em
+todas as cópias ou partes substanciais do Software.
+
+O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU
+IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO ÀS GARANTIAS DE COMERCIALIZAÇÃO,
+ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO E NÃO VIOLAÇÃO. EM NENHUMA CIRCUNSTÂNCIA
+OS AUTORES OU DETENTORES DOS DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER
+RECLAMAÇÃO, DANOS OU OUTRA RESPONSABILIDADE, SEJA EM UMA AÇÃO DE CONTRATO,
+DELITO OU DE OUTRA FORMA, DECORRENTE DE, FORA DE OU EM CONEXÃO COM O SOFTWARE
+OU O USO OU OUTRAS NEGOCIAÇÕES NO SOFTWARE.
+
+---
+
+## USOS PERMITIDOS
+
+### ✅ Uso Comercial
+Você pode usar este software para fins comerciais.
+
+### ✅ Modificação
+Você pode modificar o software.
+
+### ✅ Distribuição
+Você pode distribuir o software.
+
+### ✅ Uso Privado
+Você pode usar o software de forma privada.
+
+---
+
+## CONDIÇÕES
+
+### 📋 Aviso de Licença e Copyright
+Você deve incluir o aviso de licença e copyright com o software.
+
+---
+
+## LIMITAÇÕES
+
+### ⚠️ Responsabilidade
+O software é fornecido sem garantia e o autor/proprietário da licença não pode
+ser responsabilizado por danos.
+
+### ⚠️ Garantia
+O software é fornecido sem qualquer garantia.
+
+---
+
+## INFORMAÇÕES ADICIONAIS
+
+### Licenças de Terceiros
+Este software utiliza serviços e bibliotecas de terceiros. Consulte o arquivo
+NOTICE.md para informações completas de atribuição e licenciamento.
+
+### Serviços de API
+- Open-Meteo API: Licenciada sob CC BY 4.0
+
+### Fontes
+- Google Fonts (Outfit, Space Grotesk): Licenciadas sob SIL Open Font License
+
+---
+
+## ISENÇÃO DE RESPONSABILIDADE
+
+Este software é fornecido para fins educacionais e informativos. A precisão dos
+dados meteorológicos depende de serviços de API de terceiros. Os desenvolvedores
+não são responsáveis por informações meteorológicas incorretas ou interrupções
+de serviço.
+
+---
+
+Para questões sobre esta licença, entre em contato:
+Email: seu.email@example.com
+GitHub: Licença MIT
+
+Copyright (c) 2025 [Seu Nome Completo]
+
+É concedida permissão, gratuitamente, a qualquer pessoa que obtenha uma cópia
+deste software e dos arquivos de documentação associados (o "Software"), para
+lidar com o Software sem restrições, incluindo, sem limitação, os direitos
+de usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou
+vender cópias do Software, e permitir que as pessoas a quem o Software é
+fornecido o façam, sujeito às seguintes condições:
+
+O aviso de copyright acima e este aviso de permissão devem ser incluídos em
+todas as cópias ou partes substanciais do Software.
+
+O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU
+IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO ÀS GARANTIAS DE COMERCIALIZAÇÃO,
+ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO E NÃO VIOLAÇÃO. EM NENHUMA CIRCUNSTÂNCIA
+OS AUTORES OU DETENTORES DOS DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER
+RECLAMAÇÃO, DANOS OU OUTRA RESPONSABILIDADE, SEJA EM UMA AÇÃO DE CONTRATO,
+DELITO OU DE OUTRA FORMA, DECORRENTE DE, FORA DE OU EM CONEXÃO COM O SOFTWARE
+OU O USO OU OUTRAS NEGOCIAÇÕES NO SOFTWARE.
+
+---
+
+## USOS PERMITIDOS
+
+### ✅ Uso Comercial
+Você pode usar este software para fins comerciais.
+
+### ✅ Modificação
+Você pode modificar o software.
+
+### ✅ Distribuição
+Você pode distribuir o software.
+
+### ✅ Uso Privado
+Você pode usar o software de forma privada.
+
+---
+
+## CONDIÇÕES
+
+### 📋 Aviso de Licença e Copyright
+Você deve incluir o aviso de licença e copyright com o software.
+
+---
+
+## LIMITAÇÕES
+
+### ⚠️ Responsabilidade
+O software é fornecido sem garantia e o autor/proprietário da licença não pode
+ser responsabilizado por danos.
+
+### ⚠️ Garantia
+O software é fornecido sem qualquer garantia.
+
+---
+
+## INFORMAÇÕES ADICIONAIS
+
+### Licenças de Terceiros
+Este software utiliza serviços e bibliotecas de terceiros. Consulte o arquivo
+NOTICE.md para informações completas de atribuição e licenciamento.
+
+### Serviços de API
+- Open-Meteo API: Licenciada sob CC BY 4.0
+
+### Fontes
+- Google Fonts (Outfit, Space Grotesk): Licenciadas sob SIL Open Font License
+
+---
+
+## ISENÇÃO DE RESPONSABILIDADE
+
+Este software é fornecido para fins educacionais e informativos. A precisão dos
+dados meteorológicos depende de serviços de API de terceiros. Os desenvolvedores
+não são responsáveis por informações meteorológicas incorretas ou interrupções
+de serviço.
+
+---
+
+Para questões sobre esta licença, entre em contato:
+Email: thuany.aline@hotmail.com
+GitHub: Licença MIT
+
+Copyright (c) 2025 [Seu Nome Completo]
+
+LICENÇA RESTRITA – USO SOMENTE COM AUTORIZAÇÃO
+
+Este software é protegido por direitos autorais. Nenhum uso é permitido sem autorização expressa e por escrito do autor.
+Isso inclui, mas não se limita a: usar, copiar, modificar, distribuir, publicar, sublicenciar ou vender o Software.
+
+Qualquer uso não autorizado é proibido.
+
+O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIAS DE QUALQUER TIPO.
+O AUTOR NÃO SE RESPONSABILIZA POR QUAISQUER DANOS RESULTANTES DO USO AUTORIZADO OU NÃO AUTORIZADO DO SOFTWARE.
+
+---
+
+USOS PERMITIDOS (MEDIANTE AUTORIZAÇÃO)
+🔒 Uso Comercial
+
+O uso comercial não é permitido, exceto mediante autorização expressa e formal do autor.
+
+🔒 Modificação
+
+A modificação do software não é permitida, salvo se houver autorização prévia e escrita do autor.
+
+🔒 Distribuição
+
+A distribuição, total ou parcial, não é permitida sem autorização explícita do autor.
+
+🔒 Uso Privado
+
+O uso privado do software também requer autorização prévia, salvo quando permitido diretamente pelo autor.
+
+---
+
+## CONDIÇÕES
+
+### 📋 Aviso de Licença e Copyright
+Você deve incluir o aviso de licença e copyright com o software.
+
+---
+
+## LIMITAÇÕES
+
+### ⚠️ Responsabilidade
+O software é fornecido sem garantia e o autor/proprietário da licença não pode
+ser responsabilizado por danos.
+
+### ⚠️ Garantia
+O software é fornecido sem qualquer garantia.
+
+---
+
+## INFORMAÇÕES ADICIONAIS
+
+### Licenças de Terceiros
+Este software utiliza serviços e bibliotecas de terceiros. Consulte o arquivo
+NOTICE.md para informações completas de atribuição e licenciamento.
+
+### Serviços de API
+- Open-Meteo API: Licenciada sob CC BY 4.0
+
+### Fontes
+- Google Fonts (Outfit, Space Grotesk): Licenciadas sob SIL Open Font License
+
+---
+
+## ISENÇÃO DE RESPONSABILIDADE
+
+Este software é fornecido para fins educacionais e informativos. A precisão dos
+dados meteorológicos depende de serviços de API de terceiros. Os desenvolvedores
+não são responsáveis por informações meteorológicas incorretas ou interrupções
+de serviço.
+
+---
+
+Para questões sobre esta licença, entre em contato:
+Email: seu.email@example.com
+GitHub: https://github.com/ThuanyAline/Projeto_Radar_Clima
+
+
+Última Atualização: 13 de novembro de 2025
+
+---
+
+Última Atualização: 13 de novembro de 2025
+
+---
+
+Última Atualização: 13 de novembro de 2025

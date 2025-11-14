@@ -1,0 +1,295 @@
+# AVISO - Atribuições e Créditos
+
+Este documento registra todas as atribuições, créditos e licenças de componentes de terceiros utilizados no projeto WeatherNow.
+
+---
+
+## 📡 APIs (Interfaces de Programação de Aplicações)
+
+### 1. Open-Meteo Geocoding API
+
+**Provedor:** Open-Meteo  
+**Website:** https://open-meteo.com/  
+**Documentação:** https://open-meteo.com/en/docs/geocoding-api
+
+**Uso:**  
+Utilizada para converter nomes de cidades em coordenadas geográficas (latitude e longitude).
+
+**Licença:** CC BY 4.0 (Creative Commons Atribuição 4.0 Internacional)  
+**URL da Licença:** https://creativecommons.org/licenses/by/4.0/deed.pt_BR
+
+**Atribuição:**
+```
+Dados meteorológicos fornecidos por Open-Meteo.com
+```
+
+**Endpoint da API:**
+```
+https://geocoding-api.open-meteo.com/v1/search
+```
+
+**Termos de Uso:**
+- Gratuito para uso não comercial e comercial
+- Atribuição obrigatória
+- Não requer chave de API
+
+---
+
+### 2. Open-Meteo Weather Forecast API
+
+**Provedor:** Open-Meteo  
+**Website:** https://open-meteo.com/  
+**Documentação:** https://open-meteo.com/en/docs
+
+**Uso:**  
+Utilizada para recuperar dados meteorológicos em tempo real, incluindo temperatura, velocidade do vento, direção do vento e condições climáticas.
+
+**Licença:** CC BY 4.0 (Creative Commons Atribuição 4.0 Internacional)  
+**URL da Licença:** https://creativecommons.org/licenses/by/4.0/deed.pt_BR
+
+**Atribuição:**
+```
+Dados meteorológicos fornecidos por Open-Meteo.com sob licença CC BY 4.0
+```
+
+**Endpoint da API:**
+```
+https://api.open-meteo.com/v1/forecast
+```
+
+**Fontes de Dados:**
+- NOAA (Administração Nacional Oceânica e Atmosférica dos EUA)
+- DWD (Serviço Meteorológico Alemão)
+- ECMWF (Centro Europeu de Previsões Meteorológicas de Médio Prazo)
+
+---
+
+## 🎨 Fontes Tipográficas
+
+### 1. Outfit
+
+**Designer:** Rodrigo Fuenzalida  
+**Fundição:** Omnibus-Type  
+**Website:** https://fonts.google.com/specimen/Outfit
+
+**Licença:** SIL Open Font License 1.1  
+**URL da Licença:** https://scripts.sil.org/OFL
+
+**Uso:**  
+Família de fonte principal para elementos de UI, texto de corpo e botões.
+
+**Pesos Utilizados:**
+- Light (300)
+- Regular (400)
+- SemiBold (600)
+- Bold (700)
+
+**Fonte CDN:**
+```
+https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700
+```
+
+---
+
+### 2. Space Grotesk
+
+**Designer:** Florian Karsten  
+**Website:** https://fonts.google.com/specimen/Space+Grotesk
+
+**Licença:** SIL Open Font License 1.1  
+**URL da Licença:** https://scripts.sil.org/OFL
+
+**Uso:**  
+Utilizada para logotipo e títulos para fornecer uma estética moderna e focada em tecnologia.
+
+**Pesos Utilizados:**
+- Medium (500)
+- Bold (700)
+
+**Fonte CDN:**
+```
+https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700
+```
+
+---
+
+## 🧪 Bibliotecas de Teste
+
+### 1. Jest
+
+**Mantenedor:** Meta Open Source (Facebook)  
+**Website:** https://jestjs.io/  
+**Repositório:** https://github.com/facebook/jest
+
+**Licença:** MIT License  
+**URL da Licença:** https://github.com/facebook/jest/blob/main/LICENSE
+
+**Uso:**  
+Framework de testes JavaScript utilizado para testes unitários da lógica da aplicação.
+
+**Versão:** ^29.0.0
+
+**Copyright:**
+```
+Copyright (c) Meta Platforms, Inc. e afiliados.
+```
+
+---
+
+### 2. jsdom
+
+**Mantenedor:** Colaboradores do jsdom  
+**Website:** https://github.com/jsdom/jsdom  
+**Repositório:** https://github.com/jsdom/jsdom
+
+**Licença:** MIT License  
+**URL da Licença:** https://github.com/jsdom/jsdom/blob/master/LICENSE.txt
+
+**Uso:**  
+Implementação JavaScript de padrões web para Node.js, usada como ambiente de teste Jest.
+
+**Versão:** Incluído com Jest
+
+---
+
+## 🎭 Ícones e Emojis
+
+**Fonte:** Padrão Unicode Emoji  
+**Provedor:** Consórcio Unicode  
+**Website:** https://unicode.org/emoji/
+
+**Licença:** Licença Unicode  
+**URL da Licença:** https://www.unicode.org/license.html
+
+**Uso:**  
+Ícones de condições climáticas e elementos decorativos da UI.
+
+**Emojis Utilizados:**
+- ☀️ Sol (Céu limpo)
+- 🌤️ Sol atrás de nuvem (Parcialmente nublado)
+- ⛅ Nuvem com sol (Nublado)
+- ☁️ Nuvem (Muito nublado)
+- 🌫️ Neblina (Neblina/Névoa)
+- 🌦️ Sol atrás de nuvem com chuva (Chuvisco)
+- 🌧️ Nuvem com chuva (Chuva)
+- ❄️ Floco de neve (Neve)
+- 🌩️ Nuvem com raio (Tempestade)
+- 🌡️ Termômetro (Temperatura)
+- 💨 Vento (Velocidade do vento)
+- 🧭 Bússola (Direção)
+
+---
+
+## 🌐 Padrões Web e Tecnologias
+
+### HTML5
+**Especificação:** WHATWG HTML Living Standard  
+**URL:** https://html.spec.whatwg.org/  
+**Licença:** CC BY 4.0
+
+### CSS3
+**Especificação:** Especificações CSS do W3C  
+**URL:** https://www.w3.org/Style/CSS/  
+**Licença:** W3C Software and Document License
+
+### JavaScript (ECMAScript)
+**Especificação:** ECMA-262 (Especificação da Linguagem ECMAScript)  
+**URL:** https://tc39.es/ecma262/  
+**Licença:** Política de Copyright da Ecma International
+
+### Fetch API
+**Especificação:** WHATWG Fetch Standard  
+**URL:** https://fetch.spec.whatwg.org/  
+**Licença:** CC BY 4.0
+
+---
+
+## 📚 Inspiração de Código e Referências
+
+### Padrão de Design Glassmorphism
+**Origem do Conceito:** Michal Malewicz (Hype4 Academy)  
+**Artigo:** "Glassmorphism in user interfaces"  
+**URL:** https://uxdesign.cc/glassmorphism-in-user-interfaces-1f39bb1308c9
+
+**Uso:**  
+Estilo de design visual com efeitos de desfoque de fundo e transparência.
+
+---
+
+### Animações e Transições CSS
+**Referência:** MDN Web Docs  
+**Mantenedor:** Fundação Mozilla  
+**URL:** https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Animations  
+**Licença:** CC BY-SA 2.5
+
+---
+
+## 🔒 Segurança e Privacidade
+
+### Sem Coleta de Dados do Usuário
+Esta aplicação **não coleta, armazena ou transmite quaisquer dados pessoais do usuário**. Todas as requisições de API são feitas diretamente do cliente para serviços de terceiros.
+
+**As buscas são processadas em tempo real** sem armazenamento de histórico ou informações pessoais.
+
+### Políticas de Privacidade das APIs
+- Open-Meteo: https://open-meteo.com/en/terms
+- Google Fonts: https://developers.google.com/fonts/faq/privacy
+
+---
+
+## ⚖️ Conformidade Legal
+
+### Conformidade com LGPD (Brasil)
+Esta aplicação está em conformidade com a Lei Geral de Proteção de Dados (LGPD - Lei nº 13.709/2018) brasileira.
+
+**Princípios seguidos:**
+- Não coleta de dados pessoais
+- Transparência total sobre uso de dados
+- Processamento em tempo real sem armazenamento
+
+### Conformidade com GDPR (Europa)
+Esta aplicação está em conformidade com o Regulamento Geral de Proteção de Dados (GDPR) europeu.
+
+---
+
+## 📝 Aviso de Modificação
+
+Se você modificar este software e distribuí-lo, você deve:
+
+1. Manter todos os avisos de atribuição existentes
+2. Adicionar sua própria atribuição
+3. Documentar quaisquer alterações feitas
+4. Cumprir com todas as licenças de terceiros
+
+---
+
+## 🤝 Agradecimentos
+
+Agradecimentos especiais a:
+
+- **Equipe Open-Meteo** por fornecer APIs gratuitas e de alta qualidade
+- **Equipe Google Fonts** por distribuir fontes de código aberto
+- **Colaboradores do Jest** pelo framework de testes robusto
+- **Comunidade Open Source** por inspiração e suporte contínuos
+
+---
+
+## 📞 Contato para Questões de Atribuição
+
+Se você acredita que alguma atribuição está faltando ou incorreta:
+
+**Email:** Thuany.aline@hotmail.com  
+**GitHub Issues:** https://github.com/ThuanyAline
+
+---
+
+## 📅 Informações do Documento
+
+**Última Atualização:** 13 de novembro de 2025  
+**Versão:** 1.0.0  
+**Mantido Por:** [Thuany Silva]
+
+---
+
+**Nota:**  
+Este arquivo NOTICE faz parte do projeto Radar Clima e deve ser distribuído com quaisquer cópias ou partes substanciais do software.

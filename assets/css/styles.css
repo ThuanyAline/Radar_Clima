@@ -130,6 +130,42 @@ button:hover {
   margin: 0.3rem 0;
 }
 
+/* 🔒 Rodapé com informações de privacidade e atribuição */
+.footer-info {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  text-align: center;
+}
+
+.privacy-notice {
+  font-size: 0.85rem;
+  color: #dbe4ff;
+  margin-bottom: 0.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.attribution {
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.8);
+  line-height: 1.6;
+}
+
+.attribution a {
+  color: #00c6ff;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  border-bottom: 1px dashed rgba(0, 198, 255, 0.5);
+}
+
+.attribution a:hover {
+  color: #fff;
+  border-bottom-color: #00c6ff;
+  text-shadow: 0 0 8px rgba(0, 198, 255, 0.6);
+}
+
 /* ✨ Animações */
 @keyframes gradientShift {
   0% {
@@ -183,5 +219,12 @@ button:hover {
   button {
     padding: 0.8rem 1.6rem;
   }
-}
 
+  .privacy-notice {
+    font-size: 0.8rem;
+  }
+
+  .attribution {
+    font-size: 0.75rem;
+  }
+}
