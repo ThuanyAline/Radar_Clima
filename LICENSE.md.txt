@@ -242,7 +242,7 @@ de serviço.
 
 Para questões sobre esta licença, entre em contato:
 Email: seu.email@example.com
-GitHub: https://github.com/ThuanyAline/Projeto_Radar_Clima
+GitHub: https://github.com/ThuanyAline/Radar_Clima
 
 
 Última Atualização: 13 de novembro de 2025
