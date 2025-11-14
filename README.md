@@ -41,10 +41,10 @@ Execute localmente:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/ThuanyAline
+git clone https://github.com/ThuanyAline/Radar_Clima
 
 # Entre no diretório
-cd RadarClima
+cd Radar_Clima
 
 # Abra o index.html no navegador
 # Windows: start index.html
@@ -79,8 +79,8 @@ cd RadarClima
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/ThuanyAline
-cd Radar Clima
+git clone https://github.com/ThuanyAline/Radar_Clima
+cd Radar_Clima
 ```
 
 ### 2. Instalação de Dependências (opcional - apenas para testes)
